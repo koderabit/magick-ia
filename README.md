@@ -50,7 +50,9 @@ magick-ia/
 
 ## 🚀 Como executar localmente
 1. Clone o repositório:
+```bash
 git clone https://github.com/seu-usuario/magick-ia.git
+```
 2. Abra o arquivo index.html no seu navegador.
 nenhum servidor é necessário, pois o projeto é 100% estático.
 
